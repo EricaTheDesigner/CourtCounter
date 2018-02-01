@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TeamNameFsize">14sp</dimen>
+    <dimen name="TeamScoreFsize">56sp</dimen>
+    <dimen name="TeamNamePadding">16dp</dimen>
+    <dimen name="TeamScorePaddingB">24dp</dimen>
+    <dimen name="ButtonMargin">24dp</dimen>
+    <dimen name="ButtonBottomMargin">8dp</dimen>
+    <dimen name="ResetBottomMargin">32dp</dimen>
+</resources>

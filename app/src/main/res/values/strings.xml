@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Court Counter</string>
+    <string name="TeamNameFfam">sans-serif-medium</string>
+    <string name="TeamScoreFfam">sans-serif-light</string>
 </resources>
